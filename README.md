@@ -1,5 +1,5 @@
 # UR-dice
-A quickly made dice simulator for the game of UR.
+A quickly made dice simulator for the royal game of UR.
   
     
       
